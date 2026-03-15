@@ -1,0 +1,4 @@
+---
+[[AI prompts]]
+
+[[Linux]]
