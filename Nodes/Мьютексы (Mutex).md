@@ -7,6 +7,7 @@
 ---
 * [[Синхронизация (User Space)|Назад]]
 ---
+(процессы и потоки)
 ### 1. Определение и состояние мьютекса (Mutex)
 
 **Мьютекс** (MUTual EXclusion) — это примитив синхронизации, предназначенный для защиты разделяемых данных от одновременных изменений и реализации критических секций [](https://manpages.debian.org/bookworm/glibc-doc/pthread_mutex_init.3.en.html)[](https://man7.org/linux/man-pages/man3/pthread_mutex_unlock.3.html). С технической точки зрения, мьютекс — это объект, который может находиться в одном из двух состояний [](https://manpages.debian.org/bookworm/glibc-doc/pthread_mutex_init.3.en.html)[](https://man7.org/linux/man-pages/man3/pthread_mutex_unlock.3.html):
