@@ -787,7 +787,7 @@
     },
     "enableEditorActiveLineHighlight": true
   },
-  "ExcludeLangs": "dataview, ad-*, insta-toc",
+  "ExcludeLangs": "dataview, ad-*, insta-toc, mermaid",
   "SelectedTheme": {
     "baseTheme": "Obsidian",
     "colors": {

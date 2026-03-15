@@ -4,5 +4,6 @@
   "link-with-alias",
   "editor-width-slider",
   "floating-toc",
-  "obsidian-git"
+  "obsidian-git",
+  "mermaid-tools"
 ]

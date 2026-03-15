@@ -12,10 +12,10 @@
 - [[Спин-блокировки (Spinlocks)]]
 - [[Блокировки чтения-записи (Read-Write Locks)]]
 - [[Чтение-копирование-обновление (RCU — Read-Copy Update)]]
-- [[Барьеры синхронизации (Synchronization Barriers)]]
 - [[Блокировки файлов (File Locks)]]
 - [[Futex (Fast Userspace Mutex)]]
 - [[События Eventfd]]
+- [[Барьеры синхронизации (Synchronization Barriers)]]
 - [[Условные переменные (Condition Variables)]]
 ---
 Примитивы синхронизации всегда хранятся в ядре.
