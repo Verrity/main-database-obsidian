@@ -2,3 +2,4 @@
 [[AI prompts]]
 
 [[Linux]]
+[[SSH]]
