@@ -3,3 +3,4 @@
 
 [[Linux]]
 [[SSH]]
+[[Rust]]
