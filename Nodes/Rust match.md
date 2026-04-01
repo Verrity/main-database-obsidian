@@ -23,3 +23,14 @@ if let Some(temp) = convert(temperature, choise)
 	println!("Converted: {temp}");
 }
 ```
+Сравнение чисел
+```rust unfold
+match val1.cmp(val2) {
+	Ordering::Equal => return val1;
+	Ordering::Greater => return val2;
+	Ordering::Less => {
+		let _b = "do something";
+		val1
+	}
+}
+```
