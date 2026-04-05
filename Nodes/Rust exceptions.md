@@ -59,3 +59,11 @@ pub main -> std::io::Result<(), Box<dyn std::error::Error>> {
 	Ok(())
 }
 ```
+### `.map_err()`
+- Если `result` — это `Ok(value)`, то `map_err` вернёт `Ok(value)` (просто пропустит).
+- Если `result` — это `Err(e)`, то `map_err` применит к `e` переданное замыкание и вернёт `Err(transformed_error)`.
+```rust unfold
+result.map_err(|e| ParsePosNonzeroError::from_parse_int(e))
+// ИЛИ
+result.map_err(ParsePosNonzeroError::from_parse_int)
+```
