@@ -14,3 +14,4 @@
 [[Rust clippy]]
 [[Rust тесты]]
 [[Rust crates]]
+[[Rust exceptions]]
