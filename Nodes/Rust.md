@@ -16,3 +16,5 @@
 [[Rust crates]]
 [[Rust generic & traits]]
 [[Rust exceptions]]
+[[Rust lifetime]]
+[[Rust tests]]

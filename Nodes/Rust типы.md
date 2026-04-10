@@ -40,6 +40,7 @@ let a = arr[1];
 
 ### **Диапазон (Range)**
 * `0..5`
+* `..` - полный range как `let s = "some str"; let a = &s[..]`
 
 Вставка в макрос insert
 ```rust unfold
