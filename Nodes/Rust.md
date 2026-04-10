@@ -18,3 +18,4 @@
 [[Rust exceptions]]
 [[Rust lifetime]]
 [[Rust tests]]
+[[Rust iterators & closures]]
