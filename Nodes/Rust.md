@@ -19,3 +19,4 @@
 [[Rust lifetime]]
 [[Rust tests]]
 [[Rust iterators & closures]]
+[[Rust smart pointers]]
