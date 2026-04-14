@@ -18,6 +18,10 @@
 * `bool` (`true`/`false`)
 * `char` 
 
+Изменить название типа
+```rust unfold
+type Err = ParsePersonError;
+```
 ### **Составные типы данных (Compound)**
 * `Tuple (Кортэж)`. Может хранить разные типы данных.
 ```rust unfold

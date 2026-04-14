@@ -34,3 +34,12 @@ match val1.cmp(val2) {
 	}
 }
 ```
+
+Операция ИЛИ
+```rust unfold
+let mut iter = s.split(',');
+let name = match iter.next() {
+    Some("") | None => return Self::default(),
+    Some(name) => String::from(name),
+};
+```
