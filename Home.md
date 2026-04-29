@@ -4,4 +4,3 @@
 [[Linux]]
 [[SSH]]
 [[Rust]]
-test
