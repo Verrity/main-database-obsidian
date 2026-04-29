@@ -1,9 +1,8 @@
 [
-  "codeblock-customizer",
-  "editing-toolbar",
-  "link-with-alias",
-  "editor-width-slider",
-  "floating-toc",
   "obsidian-git",
-  "mermaid-tools"
+  "mermaid-tools",
+  "link-with-alias",
+  "floating-toc",
+  "codeblock-customizer",
+  "editing-toolbar"
 ]
