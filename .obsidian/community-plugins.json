@@ -4,5 +4,6 @@
   "link-with-alias",
   "floating-toc",
   "codeblock-customizer",
-  "editing-toolbar"
+  "editing-toolbar",
+  "editor-width-slider"
 ]

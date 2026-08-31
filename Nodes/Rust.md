@@ -22,3 +22,5 @@
 [[Rust smart pointers]]
 [[Rust threads]]
 [[Rust макросы]]
+
+[[Rust formatted print]]
